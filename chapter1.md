@@ -17,9 +17,9 @@ el cuarto de milla hariamos lo siguente.
 
 ```{r}
 index <- (mtcars$qsec <= 20)
-head(index)
+mtcars[index,]
 ```
-
+ El codigo de arriba nos devol
 
 
 A dataset with a selection of movies, `movie_selection`, is available in the workspace.
