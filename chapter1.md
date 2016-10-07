@@ -5,7 +5,7 @@ attachments :
   slides_link :https://www.dropbox.com/s/3cfm8le678keyyf/tutdplyr.html?dl=0
 
 --- type:NormalExercise lang:r xp:100 skills:1 key:9a23b0e87e
-## El primer Verbo. **Filtrado**
+## El primer Verbo. Filter
 
 In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
 
