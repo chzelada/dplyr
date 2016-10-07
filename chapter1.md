@@ -17,6 +17,7 @@ el cuarto de milla hariamos lo siguente.
 
 ```{r}
 index <- (mtcars$qsec <= 20)
+head(index)
 ```
 
 
