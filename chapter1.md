@@ -7,7 +7,19 @@ attachments :
 --- type:NormalExercise lang:r xp:100 skills:1 key:9a23b0e87e
 ## El primer Verbo. Filter
 
-In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
+Anteriormente para filtrar un dataframe necesitamos establecer un counjunto de indices.
+
+Por ejemplo,
+
+si tenemos el DataFrame `mtcars` y queremos filtrar solo por aquello vehiculos que hacen de 10 a 15 segundos en 
+el cuarto de milla hariamos lo siguente.
+
+
+```{r}
+index <- (mtcars$qsec <= 20)
+```
+
+
 
 A dataset with a selection of movies, `movie_selection`, is available in the workspace.
 
