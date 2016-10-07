@@ -1,8 +1,8 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : Utlización Basica de Dplyr
+description : En este capitulo aprenderemos los conceptos basicos de la libreria Dplyr.
 attachments :
-  slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
+  slides_link :https://www.dropbox.com/s/3cfm8le678keyyf/tutdplyr.html?dl=0
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:16c0871f54
 ## A really bad movie
