@@ -1,7 +1,7 @@
-title            : dplyr
+title            : Dplyr
 instructors      :
- - chzelada@gmail.com
-description      : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.
+ - chzelada@galileo.edu
+description      : Este curso es para aprender a utilizar la libreria Dplyr para el manejo de DataFrames.
 university       : DataCamp
 difficulty_level : 2
-time_needed      : 1 hour
+time_needed      : 4 hour
